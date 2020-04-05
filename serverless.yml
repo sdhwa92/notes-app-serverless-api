@@ -1,4 +1,5 @@
 # NOTE: update this with your service name
+# Changed service name as the resources were previously created by hand and will conflict when we try to create them through code.
 service: notes-app-2-api
 
 # Create an optimized package for our functions 
